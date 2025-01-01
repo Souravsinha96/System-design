@@ -96,11 +96,11 @@
           <mxGeometry x="475" y="429.98" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ez3ZbAeKuc7IrQRngPXJ-53" value="spoonacularAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201.25" y="629.98" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="231.25" y="629.98" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ez3ZbAeKuc7IrQRngPXJ-58" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ez3ZbAeKuc7IrQRngPXJ-53">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="250" y="569.98" as="sourcePoint" />
+            <mxPoint x="280" y="570" as="sourcePoint" />
             <mxPoint x="250.2025" y="563.28" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
